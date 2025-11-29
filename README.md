@@ -184,7 +184,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 This project is licensed under the ILAN License by IBM.
 
-© 2025 Ansh Mittal
+© 2025 Arihant Gupta
 
 ---
 
