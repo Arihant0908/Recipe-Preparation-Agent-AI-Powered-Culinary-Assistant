@@ -28,7 +28,7 @@ An AI-powered culinary assistant that transforms your available ingredients into
 
 This repository hosts a smart recipe prediction model trained on the Cleaned_Indian_Food_Dataset.csv. Using a rule-based matching algorithm and a user-friendly Gradio interface, the agent delivers real-time recipe suggestions with high accuracy. The project showcases end-to-end AI development, from data preprocessing to modern UI implementation.
 
-**Repository**: [https://github.com/anshmittal2004/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant](https://github.com/anshmittal2004/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant)
+**Repository**: [https://github.com/Arihant0908/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant](https://github.com/Arihant0908/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant)
 
 ## 🔑 Key Features
 
@@ -84,7 +84,7 @@ The Recipe Preparation Agent uses a sophisticated rule-based matching algorithm:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anshmittal2004/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant.git
+   git clone https://github.com/Arihant0908/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant.git
    cd Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant
    ```
 
@@ -177,8 +177,8 @@ For major changes, please open an issue first to discuss what you would like to 
 ## 📧 Contact
 
 **Developer**: Ansh Mittal  
-**GitHub**: [anshmittal2004](https://github.com/anshmittal2004)  
-**Project Repository**: [Recipe Preparation Agent](https://github.com/anshmittal2004/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant)
+**GitHub**: [Arihant0908](https://github.com/Arihant0908)  
+**Project Repository**: [Recipe Preparation Agent](https://github.com/Arihant0908/Recipe-Preparation-Agent-AI-Powered-Culinary-Assistant)
 
 ## 📜 License
 
